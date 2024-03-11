@@ -1,0 +1,6 @@
+train: /content/Dataset/train/images
+val: /content/Dataset/valid/images
+test: /content/Dataset/test/images
+
+nc: 1
+names: ['Plate']
