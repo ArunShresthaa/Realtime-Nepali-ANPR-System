@@ -1,6 +1,6 @@
 ultralytics
 opencv-python
-mysql.connector
+mysql-connector-python
 numpy
 cython
 scikit-learn
